@@ -1,3 +1,12 @@
+#MERNsky
+"MERNsky" is a web application project built using the React stack, The project serves as a weather hub, allowing users to enter the name of any city and retrieve detailed weather information. Users can input a city's name, and the application fetches real-time weather data, providing details such as temperature, humidity, wind speed, and weather conditions. The MERNsky project utilizes MongoDB as the database to store user data and other related information, Express.js and Node.js for server-side scripting and API handling, and React.js for creating a dynamic and responsive user interface. By integrating these technologies, MERNsky offers a seamless and user-friendly experience for accessing up-to-date weather details for any city worldwide.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
