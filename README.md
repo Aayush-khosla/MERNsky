@@ -4,7 +4,8 @@
 
 
 
-
+## GSAP 
+GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.
 
 
 # Getting Started with Create React App
